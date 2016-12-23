@@ -12,19 +12,19 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://aadityasg.github.io/
-baseurl: 
-title: Chris Turner
-author: Chris Turner
-description: Personal blog and resume
+baseurl: /
+title: Aaditya Gavandalkar
+author: Aaditya Gavandalkar
+description: Personal blog And Resume
 avatar: profile.png
 email: gavandalkar.1@osu.edu
-github: biomadeira/sustain # username
+github: aadityasg
 twitter: 
-linkedin: aadityasg
-stackoverflow: aadityasg   #e.g: users/2735833/proton1h1
+linkedin: aaditya-gavandalkar-980a8036
+stackoverflow: users/1791492/aaditya-gavandalkar
 #Comment out if you don't want disqus 
-disqus: username
-google_analytics: UA-69391421-1
+disqus: aadityagavandalkar
+google_analytics: UA-71770943-1
 
 
 # needed for travis-ci build
